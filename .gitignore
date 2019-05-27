@@ -1,0 +1,3 @@
+mjd_simulation/fields/*.dat
+undepleted.txt
+.ipynb*
